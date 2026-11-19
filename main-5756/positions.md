@@ -3,9 +3,9 @@
 ```json
 {"version":1,
 "cards":{
-"resumistico.md":{"x":1091,"y":294,"w":280,"h":200,"color":"paper"},
-"resumo-do-resumistico-escrito.md":{"x":1021,"y":639,"w":421,"h":339,"color":"paper"},
-"resumo-neto.md":{"x":689,"y":293,"w":280,"h":200,"color":"yellow"}
+"resumistico.md":{"x":1091,"y":294,"w":280,"h":200,"color":"blue"},
+"resumo-do-resumistico-escrito.md":{"x":1121,"y":593,"w":421,"h":339,"color":"pink"},
+"resumo-neto.md":{"x":711,"y":294,"w":286,"h":199,"color":"yellow"}
 },
 "frames":[],
 "connections":[],
